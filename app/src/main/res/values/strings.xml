@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Battery Low Notifier</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="firebase_status_fmt">%s</string>
+
+    <string name="channel_name">Battery Low Notifier</string>
+    <string name="channel_id">Battery Low Notifier</string>
+    <string name="channel_description">Sends Notification When battery is Low</string>
+
+    <string name="revoke_access">Revoke Access</string>
+
+    <string name="google_default_web_client_id">43180403362-u9n7lsaqeidup7efpi6451qr5ivuan2l.apps.googleusercontent.com</string>
+</resources>
