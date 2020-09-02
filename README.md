@@ -1,5 +1,5 @@
 # Low Battery Notifier
 
-Use your own google-services.json from Firebase
+To all users, need to add google-services.json to add Firebase support
 
-Other than that, ours and their app is compatible
+[Website](https://pratikpc.github.io/Battery-Low-Notifier)
